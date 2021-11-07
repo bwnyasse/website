@@ -229,7 +229,7 @@ and download the corresponding web driver:
 To get started testing in a web browser, [Download ChromeDriver][].
 
 Next, create a new directory named `test_driver` containing a new file
-named`integration_test.dart`:
+named `integration_test.dart`:
 
 ```dart
 import 'package:integration_test/integration_test_driver.dart';
